@@ -13,3 +13,12 @@
 [submodule "bundle/vim-airline-themes"]
 	path = bundle/vim-airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "bundle/vim-deep-space"]
+	path = bundle/vim-deep-space
+	url = https://github.com/tyrannicaltoucan/vim-deep-space
+[submodule "vim-dogrun"]
+	path = vim-dogrun
+	url = https://github.com/wadackel/vim-dogrun
+[submodule "bundle/vim-dogrun"]
+	path = bundle/vim-dogrun
+	url = https://github.com/wadackel/vim-dogrun
