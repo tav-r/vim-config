@@ -22,3 +22,9 @@
 [submodule "bundle/vim-dogrun"]
 	path = bundle/vim-dogrun
 	url = https://github.com/wadackel/vim-dogrun
+[submodule "bundle/onedark.vim"]
+	path = bundle/onedark.vim
+	url = https://github.com/joshdick/onedark.vim
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim

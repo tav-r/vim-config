@@ -6,5 +6,5 @@ set tabstop=4
 " load plugins for syntastic
 let g:syntastic_c_checkers = ['gcc', 'flawfinder']
 let g:syntastic_python_checkers = ['pylint', 'flake8']
-let g:airline_theme='dracula'
-colorscheme dracula
+let g:airline_theme='onedark'
+colorscheme onedark
