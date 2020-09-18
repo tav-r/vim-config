@@ -15,5 +15,14 @@ let g:ale_linters = {'rust': ['analyzer'], 'cpp': ['clang', 'flawfinder', 'cppli
 let g:airline_theme='onedark'
 colorscheme onedark
 
+let g:gitgutter_sign_added = ''
+let g:gitgutter_sign_modified = ''
+let g:gitgutter_sign_removed = ''
+let g:gitgutter_sign_removed_first_line = ''
+let g:gitgutter_sign_modified_removed = ''
+
+" increase update time to make gitgutter signs more responsive
+set updatetime=100
+
 " Tagbar config
 nmap <F8> :TagbarToggle<CR>
