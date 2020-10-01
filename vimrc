@@ -2,6 +2,8 @@ execute pathogen#infect()
 Helptags
 syntax on
 set number
+set expandtab
+set shiftwidth=4
 set tabstop=4
 
 " load plugins for syntastic
