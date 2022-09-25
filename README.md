@@ -1,4 +1,4 @@
-# My vim config. I don't know if this is useful to anyone else.
+# my vim config
 To use this configuration, run
 ```bash
 cd && git clone --recurse-submodules https://github.com/tav-r/vim-config .vim && ln -s ~/.vim/vimrc .vimrc
