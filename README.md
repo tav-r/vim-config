@@ -8,7 +8,6 @@ The `--recurse-submodules` parameter is necessary to clone the plugin repos in t
 - flake8
 - python-pylint
 - mypy
-- python-cpplint
 - flawfinder
 - clang
 - rust-analyzer
